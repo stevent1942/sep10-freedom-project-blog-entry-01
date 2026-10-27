@@ -18,6 +18,11 @@ Topic: **X**
   * Allows you to see where countries and cities are as well as how long it will take to reach there.
   * Find attractions as well as hotels to places you want to tour.
   * [Logo](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Google_Maps_icon_%282026%29.svg/1280px-Google_Maps_icon_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+* Youtube
+  * Allows you to watch videos on places you plan to go to, as it may fuel your interest or make you lose interest.
+  * Find and discover religions as well as tradition and culture through other peoples blogs.
+  * Watch videos on destination guides.
+  * [Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ##### Hardware
 * Tech
